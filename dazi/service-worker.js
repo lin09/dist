@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("https://cdn.jsdelivr.net/npm/workbox-cdn@4.3.1/workbox/workbox-sw.js");
 
 importScripts(
   "https://cdn.jsdelivr.net/gh/lin09/dist/dazi/precache-manifest.4076ac2dd2f4bbd773cbd5dd5fed57d7.js"
