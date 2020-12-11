@@ -14,7 +14,7 @@
 
 
 importScripts(
-  "https://cdn.jsdelivr.net/npm/workbox-cdn@5.1.4/workbox/workbox-sw.min.js",
+  "https://cdn.jsdelivr.net/npm/workbox-cdn@4.3.1/workbox/workbox-sw.min.js",
   "https://cdn.jsdelivr.net/gh/lin09/dist/dazi/precache-manifest.93cf53ec1e4406d97bea1d8025c096dc.js"
 );
 
