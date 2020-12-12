@@ -1,0 +1,13 @@
+{
+  "name": "@lin09/dist",
+  "version": "0.1.2",
+  "description": "静态资源",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lin09/dist.git"
+  },
+  "author": "Lin09",
+  "license": "MIT",
+  "homepage": "https://github.com/lin09/dist#readme"
+}
