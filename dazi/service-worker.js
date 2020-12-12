@@ -14,7 +14,7 @@
 importScripts("https://cdn.jsdelivr.net/npm/workbox-cdn@4.3.1/workbox/workbox-sw.js");
 
 importScripts(
-  "https://cdn.jsdelivr.net/gh/lin09/dist/dazi/precache-manifest.ba1a24985c444580b49b9072249cfa96.js"
+  "https://cdn.jsdelivr.net/gh/lin09/dist/dazi/precache-manifest.e7fc9e7704bb063657686cfcf8dda552.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dazi"});
